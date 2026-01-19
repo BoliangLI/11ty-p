@@ -1,0 +1,9 @@
+{
+  "name": "eleventy-sample",
+  "installCommand": "npm install",
+  "buildCommand": "npm run build",
+  "assets": {
+    "directory": "./_site",
+    "notFoundStrategy": "404Page"
+  }
+}
